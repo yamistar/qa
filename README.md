@@ -2,7 +2,8 @@ Hello,
 반갑습니다. 
 
 ---
-
+git help
+---
 작업 영역 시작 (참고: git help tutorial)
 - **clone**: 새로운 디렉토리에 저장소 복제
 - **init**: 빈 Git 저장소 생성 또는 기존 저장소 재초기화
